@@ -1,31 +1,32 @@
 # 👨🏽‍💻 Danilo Sousa
 
-**`Estudante | Python | JavaScript | MySQL | Cloud | GCP `**
+**`Estudante | Engenharia de Dados | Python | JavaScript | MySQL | Cloud | GCP `**
 
-Me chamo **Danilo Sousa**, tenho 21 anos e sou natural de São Paulo.  
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**.  
-Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e desenvolver soluções inovadoras 🚀.  
+Me chamo **Danilo Sousa**, tenho 21 anos e sou natural de São Paulo.  
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**.  
+Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e desenvolver soluções inovadoras 🚀.  
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/danilo-sousa-9a794326b/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/-Danilo%20Sousa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:dssdanilo45@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Danilo,%20tudo%20bem?%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.">
-        <img 
-            alt="Email" 
-            title="Envie-me um e-mail" 
-            src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/danilo-sousa-9a794326b/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Visite meu perfil no LinkedIn" 
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dssdanilo45@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Danilo,%20tudo%20bem?%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.">
+    <img 
+      alt="Gmail" 
+      title="Envie-me um e-mail" 
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</div>
 
 ---
 
@@ -47,7 +48,7 @@ Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💡 Interesse em **desenvolvimento web**, **automação** e **cloud computing**
+- 💡 Interesse em **Engenharia de Dados**, **desenvolvimento web**, **automação** e **cloud computing**
 - 🧩 Experiência com **Python**, **React**, **MySQL** e **GCP**
 - 🤝 Gosto de colaborar em projetos e aprender novas tecnologias
 - ⚙️ Sempre buscando aprimorar minha lógica e criar soluções práticas
@@ -65,7 +66,7 @@ Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e
 ---
 
 ### ⚡ Curiosidades
-- ☁️ Apaixonado por tecnologia e computação em nuvem  
-- 🧠 Curioso e sempre disposto a aprender algo novo  
+- ☁️ Apaixonado por tecnologia e computação em nuvem  
+- 🧠 Curioso e sempre disposto a aprender algo novo  
 
 ---
