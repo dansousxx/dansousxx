@@ -3,8 +3,7 @@
 **`Estudante | Engenharia de Dados | Python | JavaScript | MySQL | Cloud | GCP `**
 
 Me chamo **Danilo Sousa**, tenho 21 anos e sou natural de São Paulo.  
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**.  
-Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e desenvolver soluções inovadoras 🚀.  
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**. Sou apaixonado por tecnologia, sempre em busca de aprimorar minhas habilidades e desenvolver soluções inovadoras 🚀.  
 
 ---
 
